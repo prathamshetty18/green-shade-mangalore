@@ -22,7 +22,7 @@ Mangalore is experiencing rapid loss of tree cover due to urban expansion, leadi
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack:
 Our platform utilizes a decoupled architecture designed for high concurrency and heavy geospatial querying:
 
 * **Frontend:** React.js / React Native (PWA for mobile accessibility)
