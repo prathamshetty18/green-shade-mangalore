@@ -9,7 +9,7 @@
 [![PostGIS](https://img.shields.io/badge/Database-PostGIS-336791?logo=postgresql)](https://postgis.net/)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)](https://reactjs.org/)
 
-## 📖 About the Project
+## 📖 About the Project:
 Mangalore is experiencing rapid loss of tree cover due to urban expansion, leading to severe Urban Heat Islands (UHI), worsening air pollution, and heightened flood risks. 
 
 **GreenShade** is a hyper-local, community-driven platform empowering citizens to combat these issues through real-time geospatial mapping and organized action.
